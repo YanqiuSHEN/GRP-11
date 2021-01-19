@@ -1,9 +1,11 @@
-# The GRP-11's Challenges
-**The challenges for the UV of LARM  
-Group Member:** Xuechu WANG & Yanqiu SHEN & Fan FEI  
+The GRP-11's Challenges
+===
+**The challenges for the UV of LARM**  
 
- # Preparation
- 
+**Group Member:** Xuechu WANG & Yanqiu SHEN & Fan FEI  
+
+ Preparation
+ ---
  1.Create a ROS-Kinetic ROSjet on The construct RDS.  
  
  2.Clone and build this project in place of the initial `simulation_ws` directory. So, in RDS the terminal :  
@@ -29,7 +31,8 @@ Group Member:** Xuechu WANG & Yanqiu SHEN & Fan FEI
  source devel/setup.bash
  ```
  
- # Challenge-1
+ Challenge-1
+ ---
  1.Open 3 WebShell, Gazebo and the Graphical Tools.  
  
  2.Run the environment --> WebShell #1: `roslaunch larm challenge-1.launch`.  
