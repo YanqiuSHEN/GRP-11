@@ -45,6 +45,6 @@ The GRP-11's Challenges
  
  5.In the Rviz, open the configuration: Open Files --> Open config --> /home/user/catkin_ws/src/student_pkg/challenge_1/document_rviz/challenge_1.rviz  
  
- challenge-2
+ Challenge-2
  ---
  
