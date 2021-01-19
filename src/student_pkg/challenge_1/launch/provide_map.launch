@@ -1,4 +1,0 @@
-<launch>
-    <node pkg="map_server" type="map_server" name="map_server" args="/home/user/catkin_ws/src/student_pkg/challenge_1/maps/map1.yaml">
-    </node>
-</launch>
