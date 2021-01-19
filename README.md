@@ -43,4 +43,8 @@ The GRP-11's Challenges
   
  4.Run the Rviz --> WebShell #3: `rosrun rviz rviz`.  
  
- 5.In the Rviz, open the configuration: Open Files --> Open config --> /home/user/catkin_ws/src/student_pkg/challenge_1/document_rviz/challenge_1.rviz 
+ 5.In the Rviz, open the configuration: Open Files --> Open config --> /home/user/catkin_ws/src/student_pkg/challenge_1/document_rviz/challenge_1.rviz  
+ 
+ challenge-2
+ ---
+ 
