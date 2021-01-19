@@ -1,8 +1,7 @@
 # GRP-11
 The challenges for the UV of LARM
-
-# Group Member 
- Xuechu WANG 
+## Group Member 
+ Xuechu WANG
  Yanqiu SHEN
  Fan FEI
 
