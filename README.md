@@ -38,8 +38,8 @@ The GRP-11's Challenges
  * Run the environment --> WebShell #1: `roslaunch larm challenge-1.launch`.  
  
  * Navigate the robot:  
-  * with the map --> WebShell #2: `roslaunch challenge_1 navigation.launch`;  
-  * without the map --> WebShell #2: `roslaunch challenge_1 navigation_nomap.launch`.  
+   * with the map --> WebShell #2: `roslaunch challenge_1 navigation.launch`;  
+   * without the map --> WebShell #2: `roslaunch challenge_1 navigation_nomap.launch`.  
   
  * Run the Rviz --> WebShell #3: `rosrun rviz rviz`.  
  
