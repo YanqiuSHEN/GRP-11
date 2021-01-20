@@ -1,0 +1,4 @@
+<launch>
+    <include file="$(find challenge_2)/launch/bottle_server.launch" />
+    <include file="$(find challenge_2)/launch/load_feature.launch" />
+</launch>

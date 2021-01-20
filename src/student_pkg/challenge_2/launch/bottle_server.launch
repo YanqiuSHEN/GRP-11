@@ -1,0 +1,9 @@
+<launch>
+  
+  <!-- Taking picture -->
+  <node pkg="challenge_2" type="bottle_server.py" name="bottle_server"  output="screen">
+  </node>
+  
+  
+
+</launch>

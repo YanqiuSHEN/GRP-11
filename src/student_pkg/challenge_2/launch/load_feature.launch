@@ -1,0 +1,8 @@
+<launch>
+  
+  <!-- Finding waterhole -->
+  <node pkg="challenge_2" type="load_feature.py" name="load_feature"  output="screen">
+  </node>
+    
+
+</launch>
