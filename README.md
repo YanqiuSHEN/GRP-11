@@ -57,7 +57,8 @@ The GRP-11's Challenges
  
  * To move the robot:  
    * Using the keyboard --> WebShell #3: `roslaunch turtlebot_teleop keyboard_teleop.launch`;  
-   * Using 2D Navi Goal --> WebShell #3: `rosrun rviz rviz -d /home/user/catkin_ws/src/student_pkg/challenge_2/document_rviz/challenge_2.rviz`.  
+   * Using 2D Navi Goal --> WebShell #3:  
+    `rosrun rviz rviz -d /home/user/catkin_ws/src/student_pkg/challenge_2/document_rviz/challenge_2.rviz`.  
     (We recommend the first method, because in this environment, use 2D Navi Goal to move may be very slow)  
  
  * When the robot see the bottle of Nuka-Cola, the position of the robot will show in the WebShell #2. 
