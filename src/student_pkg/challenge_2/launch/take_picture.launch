@@ -1,9 +1,0 @@
-<launch>
-  
-  <!-- Taking picture -->
-  <node pkg="student_package" type="take_picture.py" name="take_picture"  output="screen">
-  </node>
-  
-  
-
-</launch>
