@@ -41,10 +41,26 @@ The GRP-11's Challenges
    * with the map --> WebShell #2: `roslaunch challenge_1 navigation.launch`;  
    * without the map --> WebShell #2: `roslaunch challenge_1 navigation_nomap.launch`.  
   
- * Run the Rviz --> WebShell #3: `rosrun rviz rviz`.  
+ * Run the Rviz --> WebShell #3: `rosrun rviz rviz -d /home/user/catkin_ws/src/student_pkg/challenge_1/document_rviz/challenge_1.rviz`.
  
- * In the Rviz, open the configuration: Open Files --> Open config --> /home/user/catkin_ws/src/student_pkg/challenge_1/document_rviz/challenge_1.rviz  
+ * Using the 2D Navi Goal tool in the rviz to set the navigation for the robot.
  
  Challenge-2
  ---
+ * Open 3 WebShell, Gazebo and the Graphical Tools.  
  
+ * Run the environment and navigate the robot -->  WebShell #1: `roslaunch challenge_2 mapping_challenge_2.launch`.  
+ 
+ * For dectecting the position of the bottle --> WebShell #2: `roslaunch challenge_2 bottle.launch`.  
+ 
+ * Open the Graphical tools and you will see the images. 
+ 
+ * To move the robot:  
+   * Using the keyboard --> WebShell #3: `roslaunch turtlebot_teleop keyboard_teleop.launch`;  
+   * Using 2D Navi Goal --> WebShell #3: `rosrun rviz rviz -d /home/user/catkin_ws/src/student_pkg/challenge_2/document_rviz/challenge_2.rviz`.  
+    (We recommend the first method, because in this environment, use 2D Navi Goal to move may be very slow)  
+ 
+ * When the robot see the bottle of Nuka-Cola, the position of the robot will show in the WebShell #2. 
+ 
+ Challenge-3
+ ---
