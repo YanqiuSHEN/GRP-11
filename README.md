@@ -65,3 +65,18 @@ The GRP-11's Challenges
  
  Challenge-3
  ---
+ * Open 4 WebShell, Gazebo and the Graphical Tools.
+ 
+ * Run the environment --> WebShell #1: `roslaunch larm challenge-3.launch`.
+ 
+ * Open the rviz --> WebShell #2:   
+  `roslaunch rviz rviz -d /home/user/catkin_ws/src/student_pkg/challenge_3/document_rviz/challenge_3.rviz`.
+  
+ * Run the code for automatic navigation --> WebShell #3: `roslaunch challenge_3 exploration.launch`.
+ 
+ * In the rviz, you have to set up the environment you want to explore, as shown below:()少图片
+ 
+   (We used the algorithm of rrt_exploration. These environment is very complex and our move_base algorithm was not optimized, so the robot would probably stop exploring after a while.)
+   
+ * During the exploration, if the robot decet the Nuka-Cola, the position will show in the WebShell #3.
+ 
