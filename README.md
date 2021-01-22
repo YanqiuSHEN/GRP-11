@@ -72,7 +72,8 @@ The GRP-11's Challenges
  * Open the rviz --> WebShell #2:   
   `rosrun rviz rviz -d /home/user/catkin_ws/src/student_pkg/challenge_3/document_rviz/challenge_3.rviz`.
   
- * Run the code for automatic navigation --> WebShell #3: `roslaunch challenge_3 exploration.launch`.
+ * Run the code for automatic navigation --> WebShell #3: `roslaunch challenge_3 exploration.launch`.  
+  (Before launch the exploration file, please sourse your catkin_ws --> `source ~/catkin_ws/devel/setup.bash`, otherwise, it may have error)
  
  * In the rviz, you have to set up the environment you want to explore, as shown below:  
    ![Image text](https://github.com/YanqiuSHEN/GRP-11/blob/main/img-folder/set%20points.gif)
