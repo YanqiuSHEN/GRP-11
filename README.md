@@ -74,8 +74,9 @@ The GRP-11's Challenges
   
  * Run the code for automatic navigation --> WebShell #3: `roslaunch challenge_3 exploration.launch`.
  
- * In the rviz, you have to set up the environment you want to explore, as shown below:()少图片
- 
+ * In the rviz, you have to set up the environment you want to explore, as shown below:  
+   ![Image text](https://github.com/YanqiuSHEN/GRP-11/blob/main/img-folder/set%20points.gif)
+   ![Image text](https://github.com/YanqiuSHEN/GRP-11/blob/main/img-folder/the%20sequence%20of%20points.png)
    (We used the algorithm of rrt_exploration. These environment is very complex and our move_base algorithm was not optimized, so the robot would probably stop exploring after a while.)
    
  * During the exploration, if the robot decet the Nuka-Cola, the position will show in the WebShell #3.
