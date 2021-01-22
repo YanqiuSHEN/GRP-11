@@ -70,7 +70,7 @@ The GRP-11's Challenges
  * Run the environment --> WebShell #1: `roslaunch larm challenge-3.launch`.
  
  * Open the rviz --> WebShell #2:   
-  `roslaunch rviz rviz -d /home/user/catkin_ws/src/student_pkg/challenge_3/document_rviz/challenge_3.rviz`.
+  `rosrun rviz rviz -d /home/user/catkin_ws/src/student_pkg/challenge_3/document_rviz/challenge_3.rviz`.
   
  * Run the code for automatic navigation --> WebShell #3: `roslaunch challenge_3 exploration.launch`.
  
