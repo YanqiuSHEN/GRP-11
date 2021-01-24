@@ -4,6 +4,8 @@ The GRP-11's Challenges
 
 **Group Member:** Xuechu WANG & Yanqiu SHEN & Fan FEI  
 
+**Our Video:** https://drive.google.com/file/d/1l6zQ-wGymLlizUsHlwWxBT5FMCQWv58K/view?usp=sharing
+
  Preparation
  ---
  * Create a ROS-Kinetic ROSjet on The construct RDS.  
