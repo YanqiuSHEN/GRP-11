@@ -4,7 +4,9 @@ The GRP-11's Challenges
 
 **Group Member:** Xuechu WANG & Yanqiu SHEN & Fan FEI  
 
-**Our Video:** https://drive.google.com/file/d/1l6zQ-wGymLlizUsHlwWxBT5FMCQWv58K/view?usp=sharing
+**Our Video:** 
+  A small teaser: https://drive.google.com/file/d/1Fo_1FpFqk128nSpEM7N4PnUNCRkyjg4d/view?usp=sharing  
+  Videos for challlenges: https://drive.google.com/file/d/1l6zQ-wGymLlizUsHlwWxBT5FMCQWv58K/view?usp=sharing
 
  Preparation
  ---
